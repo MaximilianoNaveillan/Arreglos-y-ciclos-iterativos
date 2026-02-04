@@ -19,3 +19,6 @@ nombres.forEach((n, i) => {
   console.log('indice desde ForEach:', i);
   console.log('nombre desde ForEach:', n);
 });
+
+nombres.push('antonio');
+console.log('nuevo nombre ingresado mediante el metodo push:', nuevo_nombre);
